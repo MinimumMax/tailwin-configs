@@ -1,5 +1,5 @@
 {
-    "regattaname": "CalCup 2025",
+    "regattaName": "CalCup 2025",
     "googleSheetId": "1-aTT9eMX49i1_T3UHOTG8eAzN65PQo8HLGH_hRQKLP8",
     "dataRange": "Sheet1!A:J",
     "headerRow": 5,
