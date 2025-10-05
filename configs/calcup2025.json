@@ -1,3 +1,14 @@
 {
-    
+    "regattaname": "CalCup 2025",
+    "googleSheetId": "1-aTT9eMX49i1_T3UHOTG8eAzN65PQo8HLGH_hRQKLP8",
+    "dataRange": "Sheet1!A:J",
+    "headerRow": 5,
+    "columnMapping": {
+        "eventNumber": 0,
+        "time": 1,
+        "eventName": 2
+    },
+    "lanesStartColumn": 3,
+    "laneCount": null,
+    "skipEmptyLaneCells": true
 }
