@@ -1,0 +1,14 @@
+{
+    "regattaName": "President's Day 2025",
+    "googleSheetId": "1ag7m-wVI3-7zguMuxQaEZGI3jT96C4UKLF9dqlMsJxI",
+    "dataRange": "Sheet1!A:J",
+    "headerRow": 5,
+    "columnMapping": {
+        "eventNumber": 0,
+        "time": 1,
+        "eventName": 2
+    },
+    "lanesStartColumn": 3,
+    "laneCount": null,
+    "skipEmptyLaneCells": true
+}
